@@ -1,4 +1,4 @@
-@SkinetEndPoint_HostAddress = http://localhost:5264
+@SkinetEndPoint_HostAddress = http://localhost:5048
 
 GET {{SkinetEndPoint_HostAddress}}/weatherforecast/
 Accept: application/json
